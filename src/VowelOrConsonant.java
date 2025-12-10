@@ -1,4 +1,4 @@
-//Problem 9 Vowel or Consonant
+//Program 9 Vowel or Consonant
 
 import java.util.*;
 

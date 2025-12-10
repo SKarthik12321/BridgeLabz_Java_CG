@@ -1,4 +1,4 @@
-//Problem 2 Leap Year
+//Program 2 Leap Year
 
 import java.util.*;
 public class LeapYear{
