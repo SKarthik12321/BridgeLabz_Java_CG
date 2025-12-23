@@ -1,5 +1,7 @@
 package Object_Oriented_Programming.OOPFundamental.level2;
 
+import jdk.jfr.Throttle;
+
 public class Student {
     private String name;
     private int rollNumber;
